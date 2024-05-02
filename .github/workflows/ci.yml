@@ -1,6 +1,6 @@
-nome:cl
+name:cl
 on
-push:
+ push:
  branches:main
 pull_requst:
  branches:main
